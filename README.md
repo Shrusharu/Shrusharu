@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Shru
 - 👀 I’m interested in . python..
-- 🌱 I’m currently learning . python codes..
-- 💞️ I’m looking to collaborate on . python..
-- 📫 How to reach me ..help me to do python with django frame.
+- 🌱 I’m currently learning . python codes.
 
 <!---
 Shrusharu/Shrusharu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
