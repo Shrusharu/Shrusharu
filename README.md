@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrusharu
+- 👋 Hi, I’m @Shru
 - 👀 I’m interested in . python..
 - 🌱 I’m currently learning . python codes..
 - 💞️ I’m looking to collaborate on . python..
