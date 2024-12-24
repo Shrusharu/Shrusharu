@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shru
-- 👀 I’m interested in . python..
-- 🌱 I’m currently learning . python codes.
+- 👀 
+- 🌱 
 
 <!---
 Shrusharu/Shrusharu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
